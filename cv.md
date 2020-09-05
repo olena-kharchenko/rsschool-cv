@@ -1,19 +1,17 @@
-###Junior Developer Resume
+#### Junior Developer Resume
 
-**Yelena Kharchenko**
+#### **Yelena Kharchenko**
 
-**Contact Info**
+**_Contact Info_**
 
 **_e-mail:_** harchenko.es1990@gmail.com
 
 **_Summary_**
-(your goal, wishes, reveal what is important for you, what do you want and why.
-Some kind of self-presentation. In case of lack of experience Junior Developer sells his/her potential, his/her passion and ability to learn fast. You shouldn't think that everybody is going to teach you when you come to the workplace . Rather being a Junior means always
-learning new things from everywhere etc.).
+Javascript is my love. I want to code all day long
 
 **_Skills_**
-_Tech skills_
 
+- _Tech skills_
 - HTML5
 - CSS3
 - GIT
@@ -21,11 +19,12 @@ _Tech skills_
 - JavaScript
 - React.js
 - Node.js
-  _Soft skills_
-- Scrum
-- Agile
-- GTD
-- Teamwork
+
+- _Soft skills_
+  - Scrum
+  - Agile
+  - GTD
+  - Teamwork
 
 **_Code examples_**
 
@@ -52,9 +51,11 @@ Also it would be awesome if you add links to source code)
 
 **_Education_**
 
-_Donetsk National Technical University_
-_Land management and cadastre_
-Septermber 2007 - January 2013 | Ukraine
+- _Donetsk National Technical University_
+  _Land management and cadastre_
+  Septermber 2007 - January 2013 | Ukraine
+- _Courses GOIT_
+- _freecodecamp_
 
 **_English_**
-(elaborate on what kind of practice you had, if any, how long it lasted and so on)
+English at A2 level according to the test
