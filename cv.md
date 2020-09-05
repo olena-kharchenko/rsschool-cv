@@ -1,30 +1,18 @@
 #### Junior Developer Resume
 
-#### **Yelena Kharchenko**
+## **Yelena Kharchenko**
 
 **_Contact Info_**
-
 **_e-mail:_** harchenko.es1990@gmail.com
 
-**_Summary_**
+**_Summary:_**
 Javascript is my love. I want to code all day long
 
 **_Skills_**
 
-- _Tech skills_
-- HTML5
-- CSS3
-- GIT
-- WebPack
-- JavaScript
-- React.js
-- Node.js
+- _Tech skills_ (HTML5, CSS3, GIT, WebPack, JavaScript, React.js, Node.js)
 
-- _Soft skills_
-  - Scrum
-  - Agile
-  - GTD
-  - Teamwork
+- _Soft skills_ (Scrum, Agile, GTD, Teamwork)
 
 **_Code examples_**
 
@@ -45,15 +33,17 @@ console.log(getSortedUniqueSkills(users));
 ```
 
 **_Experience_**
-(for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
-freelance projects - wherever they had the opportunity to demonstrate skills they have.
-Also it would be awesome if you add links to source code)
+
+- https://olena-kharchenko.github.io/rezume/
+- https://zhivotenkoalex.github.io/barbershop/ (teamwork)
+- https://olena-kharchenko.github.io/goit-markup-hw-08/
+- https://olena-kharchenko.github.io/shaun/
+- https://olena-kharchenko.github.io/doors/
 
 **_Education_**
 
 - _Donetsk National Technical University_
-  _Land management and cadastre_
-  Septermber 2007 - January 2013 | Ukraine
+  (Land management and cadastre, Septermber 2007 - January 2013 | Ukraine)
 - _Courses GOIT_
 - _freecodecamp_
 
