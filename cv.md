@@ -1,4 +1,4 @@
-#### Junior Developer Resume
+### Junior Developer Resume
 
 ## **Yelena Kharchenko**
 
@@ -46,6 +46,7 @@ console.log(getSortedUniqueSkills(users));
   (Land management and cadastre, Septermber 2007 - January 2013 | Ukraine)
 - _Courses GOIT_
 - _freecodecamp_
+- _RSSchool_
 
 **_English_**
 English at A2 level according to the test
