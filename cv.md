@@ -31,3 +31,22 @@ const getSortedUniqueSkills = array => {
 
 console.log(getSortedUniqueSkills(users));
 ```
+
+**_Experience_**
+
+- https://olena-kharchenko.github.io/rezume/
+- https://zhivotenkoalex.github.io/barbershop/ (teamwork)
+- https://olena-kharchenko.github.io/goit-markup-hw-08/
+- https://olena-kharchenko.github.io/shaun/
+- https://olena-kharchenko.github.io/doors/
+
+**_Education_**
+
+- _Donetsk National Technical University_
+  (Land management and cadastre, Septermber 2007 - January 2013 | Ukraine)
+- _Courses GOIT_
+- _freecodecamp_
+- _RSSchool_
+
+**_English_**
+English at A2 level according to the test
